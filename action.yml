@@ -1,0 +1,10 @@
+name: 'Keyword Releaser 97'
+description: 'Creates releases based on a keyword'
+author: 'Hasan'
+runs:
+    using: 'docker'
+    image: 'Dockerfile'
+
+branding:
+    icon: 'gift'
+    color: 'red'
